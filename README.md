@@ -99,7 +99,15 @@ The work was carried out as a Capstone Project in Aerospace Engineering at Lovel
 
 ## Performance Analysis
 
-![Performance](results/performance-analysis.png)
+### Paraffin + Aluminium Performance Evaluation
+
+![Performance Analysis 01](results/performance-analysis%2001.png)
+
+![Performance Analysis 02](results/performance-analysis%2002.png)
+
+![Performance Analysis 03](results/performance-analysis%2003.png)
+
+![Performance Analysis 04](results/performance-analysis%2004.png)
 
 ### Thermochemical Comparison
 
