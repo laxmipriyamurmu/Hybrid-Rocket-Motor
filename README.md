@@ -1,25 +1,28 @@
-# Hybrid Rocket Motor
+# 🚀 Hybrid Rocket Motor Development
 
-## Overview
+## Project Overview
 
-This project focuses on the design, computational analysis, and prototype development of a 100 N-class hybrid rocket motor using paraffin-based fuel blended with energetic additives and Liquid Oxygen (LOX) as the oxidizer.
+This project presents the design, computational analysis, and prototype development of a **100 N-class Hybrid Rocket Motor** using **Paraffin Wax** as the fuel and **Liquid Oxygen (LOX)** as the oxidizer.
 
-The work was carried out as a Capstone Project in Aerospace Engineering at Lovely Professional University.
+The project investigated the influence of energetic additives on propulsion performance through thermochemical analysis using NASA CEA, followed by CAD modelling, prototype fabrication, and experimental validation.
 
----
-
-## Project Objectives
-
-- Design a 100 N-class hybrid rocket motor
-- Analyze propulsion performance using NASA CEA
-- Study the influence of Aluminum and LiBH₄ additives
-- Develop CAD models of the motor assembly
-- Manufacture a working prototype
-- Validate design feasibility through testing
+Developed as the Capstone Project for the B.Tech Aerospace Engineering program at Lovely Professional University.
 
 ---
 
-## Key Specifications
+# 🎯 Objectives
+
+- Design a 100 N-class hybrid rocket motor.
+- Perform propulsion performance analysis using NASA CEA.
+- Investigate the influence of Aluminum and Lithium-based additives.
+- Design injector, combustion chamber, and nozzle components.
+- Develop complete CAD assemblies.
+- Fabricate a functional prototype.
+- Validate the propulsion system through experimental testing.
+
+---
+
+# ⚙️ Motor Specifications
 
 | Parameter | Value |
 |------------|---------|
@@ -33,19 +36,26 @@ The work was carried out as a Capstone Project in Aerospace Engineering at Lovel
 
 ---
 
-## Technologies Used
+# 🛠️ Design & Development
 
-- NASA CEA
-- Creo Parametric
-- Aerospace Propulsion Analysis
-- CAD Design
-- Engineering Design Calculations
+The hybrid rocket motor was developed through a systematic engineering workflow involving:
+
+- Propellant selection
+- NASA CEA thermochemical analysis
+- Fuel grain design
+- Injector design
+- Nozzle optimization
+- CAD modelling
+- Prototype fabrication
+- Performance evaluation
 
 ---
 
-## Results
+# 📊 Performance Analysis
 
-### Best Predicted Performance
+The propulsion system was evaluated using NASA CEA for multiple fuel-additive combinations.
+
+## Best Predicted Performance
 
 | Fuel Combination | Specific Impulse (s) |
 |------------------|----------------------|
@@ -53,76 +63,73 @@ The work was carried out as a Capstone Project in Aerospace Engineering at Lovel
 | Paraffin + LiAlH₄ | 278.62 |
 | Paraffin + LiBeH₄ | 280.75 |
 
-### Key Achievements
+### Key Outcomes
 
-- Successfully designed a 100 N hybrid rocket motor
-- Achieved successful ignition
-- Demonstrated approximately 2 seconds of stable combustion
-- Evaluated additive effects on propulsion performance
-- Developed complete CAD assembly and manufacturing workflow
+- Successfully designed a 100 N hybrid rocket motor.
+- Achieved successful ignition.
+- Demonstrated approximately 2 seconds of stable combustion.
+- Compared propulsion performance for different energetic additives.
+- Developed a complete CAD assembly and fabrication workflow.
 
 ---
 
-## CAD Models
+# 📷 Project Gallery
 
-### Complete Assembly Blueprint
+## Blueprint
 
 ![Blueprint](images/blueprint.png)
 
-### CAD Assembly
+## CAD Assembly
 
 ![CAD Assembly](images/cad-assembly.png)
 
-### Isometric Model
+## Isometric Model
 
-![Isometric Model](images/cad-isometric.png)
+![Isometric](images/cad-isometric.png)
 
----
-
-## Design Components
-
-### Injector Plate
+## Injector Plate
 
 ![Injector](images/injector-plate.png)
 
-### Nozzle Geometry
+## Nozzle Design
 
 ![Nozzle](images/nozzle-design.png)
 
----
-
-## Prototype
+## Fabricated Prototype
 
 ![Prototype](images/fabricated-prototype.png)
 
 ---
 
-## Performance Analysis
+# 📈 Performance Results
 
-### Paraffin + Aluminium Performance Evaluation
+### NASA CEA Performance Analysis
 
-![Performance Analysis 01](results/performance-analysis%2001.png)
+![Performance 01](results/performance-analysis%2001.png)
 
-![Performance Analysis 02](results/performance-analysis%2002.png)
+![Performance 02](results/performance-analysis%2002.png)
 
-![Performance Analysis 03](results/performance-analysis%2003.png)
+![Performance 03](results/performance-analysis%2003.png)
 
-![Performance Analysis 04](results/performance-analysis%2004.png)
+![Performance 04](results/performance-analysis%2004.png)
 
 ### Thermochemical Comparison
 
-![CEA Results](results/cea-comparison-table.png)
+![CEA Comparison](results/cea-comparison-table.png)
 
 ---
 
-## Awards & Recognition
+# 🏆 Awards & Recognition
 
-🏆 2nd Runner-Up – 9th Innotek Annual Innovation Expo 2026
+**2nd Runner-Up**
+
+**9th Innotek Annual Innovation Expo 2026**
 
 Project:
+
 **Computational Performance of Hybrid Rocket Motor Loaded with Fuel and Additives**
 
-### Award Highlights
+### Event Gallery
 
 ![Award](images/award-1.jpg)
 
@@ -130,23 +137,70 @@ Project:
 
 ![Award](images/award-3.jpg)
 
----
+![Award](images/award-4.jpg)
 
-## Project Report
+![Award](images/award-5.jpg)
 
-Full report available here:
-
-[Capstone Project Report](report/Capstone_Project_Report.pdf)
+![Award](images/award-6.jpg)
 
 ---
 
-## Author
+# 🧰 Software & Tools
+
+- NASA CEA
+- Creo Parametric
+- CAD Design
+- Aerospace Propulsion Analysis
+- Engineering Design Calculations
+
+---
+
+# 💡 Skills Demonstrated
+
+- Rocket Propulsion
+- Hybrid Rocket Motor Design
+- Propellant Selection
+- NASA CEA Analysis
+- CAD Modelling
+- Prototype Fabrication
+- Engineering Design
+- Aerospace Systems Engineering
+
+---
+
+# 📄 Technical Report
+
+Complete project documentation is available here:
+
+📄 **[Capstone Project Report](report/Capstone_Project_Report.pdf)**
+
+---
+
+# 🚀 Future Scope
+
+- Static firing with instrumentation
+- Combustion efficiency optimization
+- Alternative oxidizer evaluation
+- Higher thrust-class motor development
+- Thermal protection analysis
+- Flight-ready hybrid propulsion system
+
+---
+
+# 👤 Author
 
 **Laxmipriya Murmu**
 
-Aerospace Engineering Undergraduate  
-Rocket Propulsion | Space Systems | CFD & Aerodynamics
+B.Tech Aerospace Engineering
 
-[LinkedIn](https://www.linkedin.com/in/laxmipriyamurmu/)
+Lovely Professional University
 
-[GitHub](https://github.com/laxmipriyamurmu)
+---
+
+# 👨‍🏫 Faculty Mentor
+
+**Mr. Harikrishna Chavan**
+
+Department of Aerospace Engineering
+
+Lovely Professional University
